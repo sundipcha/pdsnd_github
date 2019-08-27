@@ -48,3 +48,4 @@ qplot(x = User.Type, y = Trip.Duration/60,
 
 
 system('python -m nbconvert Explore_bikeshare_data.ipynb')
+#this is where the assignment ends
