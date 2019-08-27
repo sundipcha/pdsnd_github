@@ -7,8 +7,8 @@ Replace the Project Title
 ### Git BikeShare Project
 Describe what your project is about and what it does
 
-### Files used
+### Chicago.csv
 Include the files used
 
-### Credits
+### Udacity
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
