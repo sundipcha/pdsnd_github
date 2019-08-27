@@ -7,7 +7,7 @@ Replace the Project Title
 ### Git BikeShare Project
 Describe what your project is about and what it does
 
-### Chicago.csv
+### Chicago.csv, New-York-City.csv, Washington.csv
 Include the files used
 
 ### Udacity
